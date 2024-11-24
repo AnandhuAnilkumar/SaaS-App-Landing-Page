@@ -51,37 +51,37 @@ export const faq = [
     id: "0",
     question: "How easy is it to setup Xora?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Getting started with Xora is quick and simple. Just sign up, upload your content, and let our AI do the heavy lifting.",
   },
   {
     id: "1",
     question: "Can I integrate Xora with other platforms?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Xora seamlessly integrates with a variety of popular platforms to enhance your workflow.",
   },
   {
     id: "2",
     question: "How often do you add new content?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We regularly update Xora with new features and improvements to keep your editing experience fresh and innovative.",
   },
   {
     id: "3",
     question: "What your refund policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We offer a 30-day money-back guarantee if you're not satisfied with your subscription.",
   },
   {
     id: "4",
     question: "Do you have corporate plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we offer tailored corporate plans to suit the needs of businesses and teams. Contact us for more details.",
   },
   {
     id: "5",
     question: "What happens when I’m out of storage?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "If you run out of storage, you can easily upgrade your plan or delete unnecessary files to free up space.",
   },
   {
     id: "6",
@@ -93,19 +93,19 @@ export const faq = [
     id: "7",
     question: "How do I invite my team?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      'Simply go to your account settings, select "Invite Team," and send invitations via email to your team members.',
   },
   {
     id: "8",
     question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we offer comprehensive training resources for both individuals and teams to help you get the most out of Xora.",
   },
   {
     id: "9",
     question: "I’m locked out of my account what do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "If you’re locked out, you can easily reset your password through the login page or contact support for assistance.",
   },
 ];
 
